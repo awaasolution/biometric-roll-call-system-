@@ -5,11 +5,11 @@
     "version": "1.0.0",
     "jsEngine": "jsc",
     "orientation": "portrait",
-    "icon": "./assets/images/realucs.jpg",
+    "icon": "./assets/images/log.png",
     "scheme": "ucsrc",
     "userInterfaceStyle": "automatic",
     "splash": {
-      "image": "./assets/images/realucs.jpg",
+      "image": "./assets/images/log.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -33,7 +33,7 @@
         "android.permission.ACCESS_FINE_LOCATION"
       ],
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/realucs.jpg",
+        "foregroundImage": "./assets/images/log.png",
         "backgroundColor": "#ffffff"
       },
       "package": "com.zinminthet.ucsRC"
@@ -41,7 +41,7 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/realucs.jpg"
+      "favicon": "./assets/images/log.png"
     },
     "plugins": [
       "expo-router",
@@ -75,7 +75,7 @@
       [
         "expo-splash-screen",
         {
-          "image": "./assets/images/realucs.jpg",
+          "image": "./assets/images/log.png",
           "imageWidth": 200,
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
@@ -88,9 +88,6 @@
     "extra": {
       "router": {
         "origin": false
-      },
-      "eas": {
-        "projectId": "90b42152-89e4-47a4-bc51-69590ff8c19a"
       }
     }
   }
