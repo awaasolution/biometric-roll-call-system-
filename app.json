@@ -36,7 +36,7 @@
         "foregroundImage": "./assets/images/log.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.zinminthet.ucsRC"
+      "package": "com.awaasolution.ucsRC"
     },
     "web": {
       "bundler": "metro",
